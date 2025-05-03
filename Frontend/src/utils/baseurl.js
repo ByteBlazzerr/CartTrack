@@ -1,2 +1,2 @@
-const baseUrl = "http://localhost:8000/api"
+const baseUrl = "https://carttrack-backend.onrender.com/api";
 export default baseUrl;
